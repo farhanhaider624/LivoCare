@@ -24,4 +24,6 @@ Thisi App UI flow is well-aligned with the problem statement, addressing the nee
 
 Each section of your app UI directly addresses specific challenges elderly users face. The design is simplified and intuitive, focusing on ease of access to essential healthcare services, alternative care options, and family support, making it a well-rounded solution for elderly healthcare accessibility.
 
+![fowchart](https://github.com/user-attachments/assets/570e4531-4ef6-4a31-a618-634e8af69e7c)
+
 ![project](https://github.com/user-attachments/assets/e22a6128-2998-4711-9987-b7e993ff3a89)
